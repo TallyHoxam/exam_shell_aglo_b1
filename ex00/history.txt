@@ -1,0 +1,113 @@
+    1  git clone https://github.com/TallyHoxam/exam_shell_aglo_b1.git
+    2  ls
+    3  cd
+    4  ls
+    5  cdf
+    6  cd
+    7  cd ..
+    8  ls
+    9  cd algo_li/
+   10  ls
+   11  cd exam_shell_aglo_b1/
+   12  ls
+   13  cd ex00
+   14  ls
+   15  cd covers
+   16  ls
+   17  cd instruction.txt
+   18  cd instructions.txt
+   19  mkdir constructeurs
+   20  cd constructeurs
+   21  ls
+   22  mkdir Nitendo
+   23  mkdir PlayStation
+   24  mkdir Xbox
+   25  mkdir microsoft
+   26  mv Xbox ./microsoft
+   27  ls
+   28  cd microsoft 
+   29  ls
+   30  cd..
+   31  cd ..
+   32  ls
+   33  mkdir sony 
+   34  mv PlayStation ./ sony
+   35  mv PlayStation ./sony
+   36  mv PlayStation./sony
+   37  mv --help
+   38  ls
+   39  cd sony 
+   40  ls
+   41  cd ..
+   42  cd..
+   43  cd ..
+   44  mv
+   45  ls
+   46  mv gb_pokemonblue_eu.jpg./constructeurs/Nitendo
+   47  mv gp_pokemonblue_eu.jpg./constructeurs
+   48  ls
+   49  mv  gp_pokemonblue_eu.jpg./constructeur
+   50   mv  gp_pokemonblue_eu.jpg ./constructeurs
+   51  ls
+   52  mv pokemongreen_3.jpg ./ constructeurs
+   53  mv *pokemon*.jpg constructeurs/Nitendo/
+   54  ls
+   55  mv *pokmon*.jpg constructeurs/Nintendo
+   56  ls
+   57  cd constructeurs
+   58  ls
+   59  cd ..
+   60  ls
+   61  mv *playstation*.jpg constructeurs/sony
+   62  ls
+   63  mv *ps4*.jpg constructeurs/sony
+   64  ls
+   65  mv *mario*.jpg construction/Nitendo
+   66  mv *mario*.jpg constructeurs/Nitendo
+   67  ls
+   68  mv *xbox*.jpg constructeurs/microsoft
+   69  ls
+   70  mv *dc*.jpg constructeurs/sony
+   71  ls
+   72  mv *x360*.jpg constructeurs/microsoft
+   73  ls
+   74  cd constructeurs
+   75  ls
+   76  cd Nitendo
+   77  mkdir salon 
+   78  ls
+   79  mv *mario*.jpg salonb
+   80  mv *mario*.jpg salon
+   81  mkdir portable
+   82  mv *pokemon*.jpg portable
+   83  ls
+   84  cd .. 
+   85  ls
+   86  cd microsfot
+   87  cd microsoft
+   88  ls
+   89  mkdir x360
+   90  mv *x360*.jpg x360
+   91  ls
+   92  mv *xbox360*.jpg x360
+   93  mv *xbox_360*.jpg x360
+   94  ls
+   95  mv *xbox*.jpg x360
+   96  ls
+   97  cd ..
+   98  cd sony
+   99  ls
+  100  mkdir playstation 
+  101  mv *playstation*.jpg PlayStation 
+  102  ls
+  103  mv *ps4*.jpg PLayStation
+  104  ls
+  105  mkdir sega 
+  106  mv *dc*.jpg sega
+  107  ls
+  108  cd ..
+  109  ls
+  110  history 
+  111  cd ..
+  112  cd ..
+  113  history > history.txt
